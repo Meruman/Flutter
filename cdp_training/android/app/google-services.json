@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31078905399",
+    "firebase_url": "https://cdp-app-a18a7.firebaseio.com",
+    "project_id": "cdp-app-a18a7",
+    "storage_bucket": "cdp-app-a18a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31078905399:android:a32f87245addbf6c97b1b2",
+        "android_client_info": {
+          "package_name": "com.meru.cdp_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31078905399-li0gebj0u5c05r5s7dbl7q9ngacghoq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHGwqgPQhjObp2JeR5GU8hEH3loN8_gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31078905399-li0gebj0u5c05r5s7dbl7q9ngacghoq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
