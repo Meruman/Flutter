@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990622673306",
+    "firebase_url": "https://scavengers-hunt-project.firebaseio.com",
+    "project_id": "scavengers-hunt-project",
+    "storage_bucket": "scavengers-hunt-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990622673306:android:ff41993c21ad88a59bf223",
+        "android_client_info": {
+          "package_name": "com.meru.proyecto_largo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990622673306-apcjoa1kbl0b6nh5o6c9nqvb3po80i3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meru.proyecto_largo",
+            "certificate_hash": "ab9614bed83a36ad7c9e4fc5ae6e344ef8787147"
+          }
+        },
+        {
+          "client_id": "990622673306-b6if2mmpj0jg68sru0lnfj9gndru9b6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpujooMapu6LCiqKPuvQfbbKdLQ3X3bQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990622673306-b6if2mmpj0jg68sru0lnfj9gndru9b6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
