@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flare_flutter/flare_actor.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:proyecto_largo/screens/authenticate/authenticate.dart';
+import 'package:youtube_player_flutter/youtube_player_flutter.dart';
+import 'package:proyecto_largo/screens/video/video_final.dart';
 
 import '../../main.dart';
 
@@ -77,7 +78,11 @@ class _Home extends State<Home> {
                     borderRadius: new BorderRadius.circular(20.0)),
                 padding: EdgeInsets.only(
                     top: 7.0, bottom: 7.0, right: 90.0, left: 7.0),
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.of(context).pushAndRemoveUntil(
+                      MaterialPageRoute(builder: (context) => VideoPlay()),
+                      (Route<dynamic> route) => false);
+                },
                 child: new Row(
                   mainAxisSize: MainAxisSize.min,
                   children: <Widget>[
